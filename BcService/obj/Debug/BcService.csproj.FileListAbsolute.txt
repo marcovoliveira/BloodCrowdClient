@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\BloodCrowd\BcService\bin\BcService.dll.config
+C:\Users\Acer\Desktop\BloodCrowd\BcService\bin\BcService.dll
+C:\Users\Acer\Desktop\BloodCrowd\BcService\bin\BcService.pdb
+C:\Users\Acer\Desktop\BloodCrowd\BcService\obj\Debug\BcService.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\BloodCrowd\BcService\obj\Debug\BcService.dll
+C:\Users\Acer\Desktop\BloodCrowd\BcService\obj\Debug\BcService.pdb

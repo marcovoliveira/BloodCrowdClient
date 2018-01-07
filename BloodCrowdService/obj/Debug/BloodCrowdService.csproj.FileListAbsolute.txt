@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\BloodCrowd\BloodCrowdService\bin\BloodCrowdService.dll.config
+C:\Users\Acer\Desktop\BloodCrowd\BloodCrowdService\bin\BloodCrowdService.dll
+C:\Users\Acer\Desktop\BloodCrowd\BloodCrowdService\bin\BloodCrowdService.pdb
+C:\Users\Acer\Desktop\BloodCrowd\BloodCrowdService\obj\Debug\BloodCrowdService.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\BloodCrowd\BloodCrowdService\obj\Debug\BloodCrowdService.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\BloodCrowd\BloodCrowdService\obj\Debug\BloodCrowdService.dll
+C:\Users\Acer\Desktop\BloodCrowd\BloodCrowdService\obj\Debug\BloodCrowdService.pdb
